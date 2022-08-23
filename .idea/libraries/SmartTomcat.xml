@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SmartTomcat">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../../SmartTomcat" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
